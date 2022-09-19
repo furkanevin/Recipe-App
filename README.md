@@ -1,4 +1,4 @@
-> **Note** The responsive weather app made with React will allow users to search for almost every city and look at their hourly forecast for 12 hours and daily for 7 days. Wherever the user searches, the date and time change according to the time zone, and the background changes based on the degree. 
+> **Note** Users will be able to search for recipes, look up ingredients, and more with the responsive recipe app developed using React.
 
 <h1>preview</h1>
 <div align="center">
