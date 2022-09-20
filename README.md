@@ -1,4 +1,4 @@
-> **Note** Users will be able to search for recipes, look up ingredients, and more with the responsive recipe app developed using React.<br>
+> **Note** Users will be able to search for recipes, look up ingredients, and more with the responsive recipe app developed using React. <br>
 API: <a target="blank" href="https://spoonacular.com/food-api"> Spoonacular API</a>
 
 > **Warning**: Currently, the website may not work because of API maintenance
